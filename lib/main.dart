@@ -67,7 +67,7 @@ class Task extends StatefulWidget {
 }
 
 class _TaskState extends State<Task> {
-  int nivel = 0;
+  int nivel = 1;
   @override
   Widget build(BuildContext context) {
     return Padding(
